@@ -9,7 +9,7 @@ function Home() {
         <div className="container mx-auto px-4 py-12 md:py-16 lg:py-20 text-center">
             <div className="max-w-4xl mx-auto mb-12">
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-800">
-                Your Resume, Ready in  <br/>
+                Your Profesional Resume, Ready in  <br/>
                     <span className="text-blue-600">60 Seconds.</span>
                 </h1>
                 <p className="text-lg md:text-xl text-gray-600 mb-10">
